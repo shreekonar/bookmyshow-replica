@@ -1,0 +1,10 @@
+.home {
+    background-image: url(bg1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.left{
+    left: 80%;
+}
